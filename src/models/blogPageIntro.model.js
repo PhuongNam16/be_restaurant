@@ -33,6 +33,7 @@ const userSchema = mongoose.Schema(
     special_menu: {
       type: Array,
     },
+    
     news: {
       type: Array,
     }
